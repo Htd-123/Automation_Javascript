@@ -1,0 +1,19 @@
+{
+  "name": "web_element",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.34.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "nodemailer": "^7.0.5",
+    "chromedriver": "^134.0.0"
+  }
+}
